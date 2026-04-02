@@ -6,7 +6,7 @@
 
 [
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vlines=true&width=435&lines=Linux+Enthusiast;Cybersecurity+Learner;Sysadmin+in+Progress;Adapt+or+Die.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=435&lines=Linux+Enthusiast;Cybersecurity+Learner;Sysadmin+in+Progress;Adapt+or+Die.)
 
 ](https://git.io/typing-svg)
 
