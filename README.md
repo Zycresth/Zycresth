@@ -4,11 +4,7 @@
 
 *Just a normal guy using Linux.*
 
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=435&lines=Linux+Enthusiast;Cybersecurity+Learner;Sysadmin+in+Progress;Adapt+or+Die.)
-
-](https://git.io/typing-svg)
+`Linux Enthusiast` • `Cybersecurity Learner` • `Adapt or Die`
 
 </div>
 
@@ -57,6 +53,31 @@
 
 
 
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+
+
+
+![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tor-project&logoColor=white)
+
+
+
+
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+
+
+
+
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
+
+
+
+
+![Ventoy](https://img.shields.io/badge/Ventoy-000000?style=for-the-badge&logoColor=white)
+
+
+
 ---
 
 ## 📜 Certifications (In Progress)
@@ -82,6 +103,7 @@
 - ♟️ Chess
 - 🎧 Audiophile listener
 - 🌸 Fragrance enthusiast
+- 📸 Photography enthusiast
 
 ---
 
@@ -89,11 +111,4 @@
 
 - ✉️ ProtonMail *(available on request)*
 - 💬 Telegram / Discord *(available on request)*
-
----
-
-<div align="center">
-
-*Privacy first. Adapt or Die.*
-
-</div>
+- 🔒 Signal *(available on request)*
