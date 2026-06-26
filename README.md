@@ -15,9 +15,13 @@
 - 🐧 Daily driving **Arch-based Linux** (CachyOS)
 - 🔐 Interested in **Cybersecurity & Sysadmin**
 - 🌐 Bilingual — **Indonesian / English**
-- 🎯 Philosophy: **Execution. Refine. Define**
+- 🎯 Philosophy: **I Failed, I Learned, I Adapt**
 
 ---
+
+"Interest beats Length, Engagament drives Retention and times becomes irrelevant to the point i cannot return to analysing normal thing. The Best Part? it's worth the time, more time spent equals more flaws to be discovered. But it's not about flaws we are talking, it's about how they processed information just like puzzles that need to be cracked till it's done or finished."
+
+-@zycresth
 
 ## 🛠️ Tech Stack
 
