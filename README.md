@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-- 🐧 **Operating System:** Daily driving **CachyOS** (Arch-based) with custom kernel optimizations (e.g ThinLTO + kCFI + BBR3).
+- 🐧 **Operating System:** Daily driving **CachyOS** (Arch-based) with custom kernel optimizations.
 - 🔐 **Focus:** Aspiring **Cybersecurity Analyst & Systems Administrator**.
 - 🌐 **Bilingual:** Native **Indonesian** / Professional **English**.
 - 🏢 **Education:** Blending corporate administration workflows with practical systems engineering.
@@ -23,13 +23,13 @@
 ## 📈 Verifiable Metrics
 
 ### 🛡️ Cybersecurity & Labs
-- **TryHackMe:** Global Top 25% *(Aiming for Top 1% by late 2026)* | [👉 View THM Profile](https://tryhackme.com/p/Zycresth?tab=completed-rooms)
+- **TryHackMe:** Global Top 20% *(Aiming for Top 1% by late 2026)* | [View THM Profile](https://tryhackme.com/p/Zycresth?tab=completed-rooms)
 - **Current Badges:** Gold League 
 - **Focus Areas:** Pre-Security, Junior Penetration Tester pathways.
 
 ### 🌐 Open Source Contribution
-- **GNOME i18n Indonesian Localization Team:** Active contributor on the platform under upstream review workflows | [👉 View Damned Lies Profile](https://l10n.gnome.org/users/Zycresth/)
-- **Skills Trained:** Version control, collaborative code auditing, string freeze management, and translation pipelines.
+- **GNOME i18n Indonesian Localization Team:** Active contributor | [View Damned Lies Profile](https://l10n.gnome.org/users/Zycresth/)
+- **LXQt Weblate Indonesian Localization Team:** Active contributor | [View Weblate Profile](https://translate.lxqt-project.org/user/Zycresth/)
 
 ---
 
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arch_Based-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" />
   <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
+  <img src="https://img.shields.io/badge/LXQt-808080?style=for-the-badge" />
 </div>
 
 ---
