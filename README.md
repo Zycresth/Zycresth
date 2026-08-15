@@ -13,9 +13,8 @@
 ## 👤 About Me
 
 - 🐧 **Operating System:** Daily driving **CachyOS** (Arch-based) with custom kernel optimizations.
-- 🔐 **Focus:** Aspiring **Cybersecurity Analyst & Systems Administrator**.
+- 🔐 **Focus:** **Cybersecurity Analyst & Systems Administrator**.
 - 🌐 **Bilingual:** Native **Indonesian** / Professional **English**.
-- 🏢 **Education:** Blending corporate administration workflows with practical systems engineering.
 - 🎯 **Philosophy:** *I Failed, I Learned, I Adapt.*
 
 ---
@@ -23,12 +22,12 @@
 ## 📈 Verifiable Metrics
 
 ### 🛡️ Cybersecurity & Labs
-- **TryHackMe:** Global Top 20% *(Aiming for Top 1% by late 2026)* | [View THM Profile](https://tryhackme.com/p/Zycresth?tab=completed-rooms)
-- **Current Badges:** Gold League 
+- **TryHackMe:** Global Top 9% *(Aiming for Top 1% by late 2026)* | [View THM Profile](https://tryhackme.com/p/Zycresth?tab=completed-rooms)
+- **Current Badges:** Platinum League 
 - **Focus Areas:** Pre-Security, Junior Penetration Tester pathways.
 
 ### 🌐 Open Source Contribution
-- **GNOME i18n Indonesian Localization Team:** Active contributor | [View Damned Lies Profile](https://l10n.gnome.org/users/Zycresth/)
+- **GNOME i18n Indonesian Localization Team:** Inactive contributor (Switched to LXQt ecosystem) | [View Damned Lies Profile](https://l10n.gnome.org/users/Zycresth/)
 - **LXQt Weblate Indonesian Localization Team:** Active contributor | [View Weblate Profile](https://translate.lxqt-project.org/user/Zycresth/)
 
 ---
